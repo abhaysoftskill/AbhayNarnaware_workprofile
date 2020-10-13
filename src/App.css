@@ -1,0 +1,145 @@
+.fullWidth{
+    width: 100%;
+ }
+/*.halfWidth{
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    float: left;
+}
+
+.user{
+    background-size: cover !important;
+     -webkit-background-size: cover !important;
+     -webkit-transition: all 1s ease-in-out;
+     -moz-transition: all 1s ease-in-out;
+     -o-transition: all 1s ease-in-out;
+     -ms-transition: all 1s ease-in-out;
+     transition: all 1s ease-in-out;
+}
+.user1{
+    background: #161415 url('/images/header-background.jpg') no-repeat top center;
+}
+.user2{
+    background: #161415 url('/images/testimonials-bg.jpg') no-repeat top center;
+}
+
+.user1:hover, .user2:hover{
+    width: 80%;
+    -webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+}
+.user1:hover + .user2 , .user2:hover ~ .user1 {
+    width: 20%;
+    -webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+}
+*/
+.logo{
+    border-bottom: 1px solid;
+    position: absolute;
+    font-size: 29px;
+    padding: 10px 0;
+}
+.userImage{
+    width: 200px;
+    height: 200px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    box-shadow: 1px 1px 10px #fff;
+    display: inline-block;
+}
+.designation{
+    color: #565656;
+}
+.usr1{
+    background: #161415 url('/images/Abhay_Narnaware.JPG') no-repeat top center;
+    background-size: cover !important;
+     -webkit-background-size: cover !important;
+}
+.usr2{
+    background: #161415 url('/images/Kanchan_Kawadkar.JPG') no-repeat top center;
+    background-size: cover !important;
+     -webkit-background-size: cover !important;
+}
+.userDetails > .userName{
+    color: #fff; margin: 15px;
+} 
+
+.user1{
+    background: #161415 url('/images/header-background.jpg') no-repeat top center;
+    background-size: cover !important;
+    -webkit-background-size: cover !important;
+}
+.user2{
+    background: #161415 url('/images/testimonials-bg.jpg') no-repeat top center;
+    background-size: cover !important;
+    -webkit-background-size: cover !important;
+}
+.user1 {
+    /* height: 200px;
+    width: 50%;
+    text-align: center;
+    float: left;
+    background: red;
+    transition: 1s;
+    overflow:hidden */
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    float: left;
+    -webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+  }
+  
+  .user2 {
+    /* height: 200px;
+    width: 50%;
+    text-align: center;
+    float: right;
+    background: blue;
+    transition: 1s;
+    overflow:hidden */
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    float: left;
+    -webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+  }
+  
+  .container:hover .user2{
+    width: 80%;
+  }
+  
+  .container:hover .user1 {
+    width: 20%;
+  }
+  .user1:hover {
+    width: 80%!important;
+  }
+  
+  .user1:hover+.user2 {
+    width: 20%;
+  }

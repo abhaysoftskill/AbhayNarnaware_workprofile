@@ -43,7 +43,6 @@
 	sections.waypoint({
 
       handler: function(event, direction) {
-
 		   var active_section;
 
 			active_section = $(this);
