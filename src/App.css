@@ -47,8 +47,10 @@
 .logo{
     border-bottom: 1px solid;
     position: absolute;
-    font-size: 29px;
-    padding: 10px 0;
+    font-size: 1.5rem;
+    padding: 2px 0;
+    right: 0;
+    color: #fff;
 }
 .userImage{
     width: 200px;
@@ -67,10 +69,11 @@
      -webkit-background-size: cover !important;
 }
 .usr2{
-    background: #161415 url('/images/Kanchan_Kawadkar.JPG') no-repeat top center;
+    background: #161415 url('/images/kanchan/smallimg.png') no-repeat top center;
     background-size: cover !important;
      -webkit-background-size: cover !important;
 }
+
 .userDetails > .userName{
     color: #fff; margin: 15px;
 } 
@@ -129,11 +132,11 @@
 	transition: all 1s ease-in-out;
   }
   
-  .container:hover .user2{
+  .mainContainer:hover .user2{
     width: 80%;
   }
   
-  .container:hover .user1 {
+  .mainContainer:hover .user1 {
     width: 20%;
   }
   .user1:hover {

@@ -1,5 +1,7 @@
 
 import React, { Component } from 'react';
+import './default.css';
+import './layout.css';
 import $ from 'jquery';
 import About from '../Components/About';
 import Contact from '../Components/Contact';
@@ -43,7 +45,7 @@ class Abhay extends Component {
   
     render() {
       return (
-        <>
+        <div id="user1">
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
@@ -52,7 +54,7 @@ class Abhay extends Component {
         {/* <Testimonials data={this.state.resumeData.testimonials} /> */}
         {/* <Contact data={this.state.resumeData.main} /> */}
         <Footer data={this.state.resumeData.main} />
-    </>
+    </div>
       );
     }
   }

@@ -1,0 +1,239 @@
+{
+  "main": {
+    "name": "Abhay Narnaware",
+    "occupation": "Sr. UI Developer (ReactJS & Angular Developer)",
+    "exprience":"8yrs in FrontEnd Developer",
+    "description": "with Zensar Technologies, Pune",
+    "organization": "Zensar Technologies",
+    "image": "Abhay_Narnaware.jpg",
+    "bio": "My name is Abhay Narnaware, I'm a Front End Developer. Currently I'm working at Zensar Technologies",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "abhay@uiprogrammers.com",
+    "phone": "+91 9960732614",
+    "address": {
+      "street": "",
+      "city": "Pune",
+      "state": "INDIA",
+      "zip": ""
+    },
+    "website": "http://www.uiprogrammers.com",
+    "resumedownload": "Abhay_JS_Developer.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abhaysofttech/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhaysofttech/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abhaysofttech/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/abhaysoftskill",
+        "className": "fa fa-github"
+      }
+    ],
+    "competencies": ["Customer Experience"," User Experience", "React/Redux", "Angular8", "NGRx AngularJS", "IONIC", "JavaScript", "HTML", "Rest API", "Node/Express JS", "NoSQL", "SQLITE",
+      "Adobe Photoshop", "Adobe Illustrator", "Program/Project Management", "Enterprise Design Thinking",
+     "Continuous Improvement", "Agile Methodologies"
+     ]
+  },
+  "resume": {
+    "skillmessage": "Work with development framework & libraries",
+    "designskillmessage": "Design tool which I used to draw",
+    "education": [
+      {
+        "school": "RTM Nagpur University",
+        "degree": "Masters in Computer Application",
+        "graduated": "March 2014",
+        "score": "65%"
+      },
+      {
+        "school": "RTM Nagpur University",
+        "degree": "Bachlores in Computer Application",
+        "graduated": "March 2011",
+        "score": "48%"
+      },
+      {
+        "school": "Nagpur University",
+        "degree": "12th Science",
+        "graduated": "March 2007",
+        "score": "73%"
+      },
+      {
+        "school": "CBSE",
+        "degree": "10th",
+        "graduated": "March 2005",
+        "score": "59.2%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Zensar Technologies",
+        "title": "Team Member && React Specialist",
+        "years": "Dec 2018 - Present",
+        "technologies": "ReactJS, Angular 8, Node/Express JS, HTML5 & CSS3, Ionic 4 & 5 SCSS, Flask, Webpack, Parcel"
+      },
+      {
+        "company": "JDA Software",
+        "title": "Software Engineer",
+        "years": "April 2015 - Dec 2018",
+        "technologies": "ReactJS, Angular 8, Node/Express JS, Angular JS, Ionic 1 & 2, HTML5 & CSS3, SCSS, Flask, Webpack, Parcel"
+
+      },
+      {
+        "company": "AK Logical Technologies",
+        "title": "Software Engineer",
+        "years": "Sep 2012 - March 2015",
+        "technologies": "Angular JS, IONIC 1, HTML5 & CSS3, SCSS"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Redux",
+        "level": "70%"
+      },
+      {
+        "name": "Angular 8",
+        "level": "65%"
+      },
+      {
+        "name": "Node & Express",
+        "level": "65%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ],
+    "designSkills": [
+      {
+        "name": "Figma & Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "Invision",
+        "level": "55%"
+      },
+      {
+        "name": "Photoshop",
+        "level": "80%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "80%"
+      }
+    ],
+    "techmessage": "I am always interested in playing around with new technologies and below which I explore framework, libraries & tools",
+
+    "tech": [
+      {
+        "technology": "React JS",
+        "img": "react.jpg",
+        "exprience": 2016,
+        "techExprience": "Working with React JS from 2016 (4+ years), I would prefered to continue work with it, I have worked on 5 + project with end to end development, where I used Redux, Thunx, Persist, React Hook"
+      },
+      {
+        "technology": "Angular 6 +",
+        "img": "angular.png",
+        "exprience": 2016,
+        "techExprience": "In my carrier I worked with AngularJS & Angular 6+ version, recently used Angular 8 in April 2020, Where I intergate a new feature like lazy loading, NgRx and much more, overall I have 3+ year exprience worked with Angular end to end with 3+ projects "
+      },
+       {
+        "technology": "Node JS",
+        "img": "node.jpg",
+        "exprience": 2018,
+        "techExprience": "In my carrier path with UI development I git to chance to have exposer on NodeJS & expressJS to create a Web API, I used this in 2 Major application and 4 + in smaller application."
+      },
+      {
+        "technology": "Bootstrap",
+        "img": "bootstrap.jpg",
+        "exprience": 2013,
+        "techExprience": "Also 6 + years I working with bootstrap to make page responsive, recently I worked with Bootstrap 4 & really enjoyed while using bootstrap."
+      },
+      {
+        "technology": "Mongo DB",
+        "img": "mongo.jpg",
+        "exprience": 2018,
+        "techExprience": "2 Major appliction I used Mongo DB, I learn and worked with integration with Node JS project  "
+      },
+      {
+        "technology": "Git",
+        "img": "git.jpg",
+        "exprience": 2015,
+        "techExprience": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": "XYZ"
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+  
+}

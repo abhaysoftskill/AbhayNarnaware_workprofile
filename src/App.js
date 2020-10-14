@@ -6,6 +6,7 @@ import { Switch, Route, Redirect, Link } from 'react-router-dom';
 
 import Abhay from './users/Abhay';
 import Home from './users/Home';
+import Kanchan from './users/Kanchan';
 
 class App extends Component {
 
@@ -13,10 +14,10 @@ class App extends Component {
     localStorage.setItem("Abhay", "test");
     return (
       <div className="App">
-        <div className="logo">UIUXCX.com</div>
         <Switch>
         <Route exact path='/' component={Home} />
-          <Route exact path='/abhay' component={Abhay} />
+        <Route exact path='/abhay' component={Abhay} />
+          <Route exact path='/kanchan' component={Kanchan} />
           <Redirect from="/*" to="/" />
         </Switch>
       
